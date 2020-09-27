@@ -6,19 +6,19 @@
 
 2.	Then you must download Ubuntu ISO file 20.04 from the below link.
 
-   Link for downloading Ubuntu ISO file: -[UbuntuISO](https://ubuntu.com/download/desktop#download "UbuntuISO")
+    Link for downloading Ubuntu ISO file: -[UbuntuISO](https://ubuntu.com/download/desktop#download "UbuntuISO")
 
-![](/Images/UBUNTU.png)
+   ![](/Images/UBUNTU.png)
 
 3.	Before installing UBUNTU enable virtualization from BIOS.
 
 4.	Refer the below YouTube tutorial for UBUNTU installation. 
 
-   Link for UBUNTU Tutorial:- [Ubuntu Installation](https://www.youtube.com/watch?v=x5MhydijWmc&t=5s "Ubuntu Installation")
+     Link for UBUNTU Tutorial:- [Ubuntu Installation](https://www.youtube.com/watch?v=x5MhydijWmc&t=5s "Ubuntu Installation")
 
 5.	Next Step is to maximize to UBUNTU on Virtual Box.
 
-   Link to maximize UBUNTU:- [Maximize Window](https://www.youtube.com/watch?v=x5MhydijWmc&t=5s "Maximize Window")
+    Link to maximize UBUNTU:- [Maximize Window](https://www.youtube.com/watch?v=x5MhydijWmc&t=5s "Maximize Window")
 
 6.	Configuring zsh
 
