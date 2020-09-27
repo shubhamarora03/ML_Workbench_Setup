@@ -4,17 +4,17 @@
 - Link for downloading Virtual Box: - [VirtualBox](https://www.virtualbox.org/ "VirtualBox")
 
 2.	Then you must download Ubuntu ISO file 20.04 from the below link.
-   Link for downloading Ubuntu ISO file: - https://ubuntu.com/download/desktop#download
+- Link for downloading Ubuntu ISO file: -[UbuntuISO](https://ubuntu.com/download/desktop#download "UbuntuISO")
 
 ![](/Images/UBUNTU.png)
 
 3.	Before installing UBUNTU enable virtualization from BIOS.
 
 4.	Refer the below YouTube tutorial for UBUNTU installation. 
-Link for UBUNTU Tutorial:- https://www.youtube.com/watch?v=x5MhydijWmc&t=5s
+- Link for UBUNTU Tutorial:- [Ubuntu Installation](https://www.youtube.com/watch?v=x5MhydijWmc&t=5s "Ubuntu Installation")
 
 5.	Next Step is to maximize to UBUNTU on Virtual Box.
-Link to maximize UBUNTU:- https://www.youtube.com/watch?v=x5MhydijWmc&t=5s
+- Link to maximize UBUNTU:- [Maximize Window](https://www.youtube.com/watch?v=x5MhydijWmc&t=5s "Maximize Window")
 
 6.	Configuring zsh
 Open UBUNTU terminal and execute the below commands: - 
@@ -24,7 +24,7 @@ zsh (go to zsh)
 Press 0
 
 Now configure oh my zsh framework on top of zsh.
-Link for oh my zsh: - https://github.com/ohmyzsh/ohmyzsh
+- Link for oh my zsh: - [zsh](https://github.com/ohmyzsh/ohmyzsh "zsh")
 
 Copy and paste the below command
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -48,7 +48,7 @@ cd /home/shubham/.bashrc (will open this file and copy the below initialize stat
 Copy and paste that snippet in .zshrc file and change the name of shell from bash to zsh.
 
 8.	To set up code server on UBUNTU first open the below link in browser
-Open the GitHub link:- https://github.com/cdr/code-server/releases
+Open the GitHub link:- [Code Server](https://github.com/cdr/code-server/releases)
 
 ![](/Images/CODESERVER.png)
 
