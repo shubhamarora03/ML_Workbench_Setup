@@ -5,7 +5,8 @@ Link for downloading Virtual Box: - https://www.virtualbox.org/
 
 2.	Then you must download Ubuntu ISO file 20.04 from the below link.
 Link for downloading Ubuntu ISO file: - https://ubuntu.com/download/desktop#download
- 
+![UBUNTU](https://github.com/shubhamarora03/ML_Workbench_Setup/tree/master/Images)
+
 3.	Before installing UBUNTU enable virtualization from BIOS.
 
 4.	Refer the below YouTube tutorial for UBUNTU installation. 
